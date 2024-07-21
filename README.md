@@ -1,5 +1,5 @@
 ## Hi there 👋
-
+[![Discord Presence](https://lanyard.kyrie25.me/api/264257846496067586)](https://discord.com/users/264257846496067586)
 <!--
 **Penguinjaa/Penguinjaa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
